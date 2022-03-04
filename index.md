@@ -6,4 +6,4 @@ Contact me: `herosubzero` on protonmail.
 
 [Русский](/ru)
 
-Test 1.
+Test 2.
